@@ -6,7 +6,7 @@ public class HelloWorld {
 		String str="kobe";
 		String str1="michal";
 		System.out.println("str==str1"+str==str1);
-		System.out.println(str.equals(str1));
+		System.out.println("1111"+str.equals(str1));
 		System.out.println("helloworld");
 	}
 }
